@@ -6,3 +6,11 @@ designed to be installed on vps
 operable on a server with characteristics: 1 core cpu, 1 GB RAM,10 GB disk(for logs)
 автономность работы обеспечена через nohup &
 autonomy of work is provided through nohup &
+
+
+для работы с vps использовался PuTTY
+для работы с файлами на сервере использовалась FileZilla
+
+PuTTY was used to work with vps
+FileZilla was used to work with files on the server
+
